@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">exercicioDadosPessoa</string>
+    <string name="edit_nome">Insira o Nome</string>
+    <string name="edit_telefone">Telefone</string>
+    <string name="edit_email">Email</string>
+    <string name="edit_idade">Idade</string>
+    <string name="edit_peso">Peso</string>
+    <string name="edit_altura">Altura</string>
+    <string name="button_send">Enviar</string>
 </resources>
